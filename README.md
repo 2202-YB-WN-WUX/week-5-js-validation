@@ -1,1 +1,3 @@
-# js-week-3-objects
+JS Validation - using Parsley.js
+
+- Also making it look cool with styles
